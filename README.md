@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Tejas!
+# 👋 Hi, I'm Tejas!
 
 🌐 I enjoy web development, and got started with programming through competitive robotics.\
 📚 I'm currently studying Computer Science at the University of Waterloo.\
