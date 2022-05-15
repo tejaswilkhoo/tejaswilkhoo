@@ -1,10 +1,10 @@
 # Hi, I'm Tejas! 👋
 
 <a href="https://www.linkedin.com/in/twilkhoo/">
-  <img align="center" alt="Tejas's Linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" target="_blank" alt="Tejas's Linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twilkhoo.com/">
-  <img align="left" alt="Tejas's Website" width="25px" src="https://commons.wikimedia.org/wiki/File:Globe_icon.svg" />
+  <img align="left" target="_blank" alt="Tejas's Website" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" />
 </a>
 
 
