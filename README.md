@@ -7,7 +7,9 @@
 <a href="https://twilkhoo.com/"><img src="https://img.shields.io/badge/-twilkhoo.com-d0a100?style=for-the-badge&amp;logo=WindowsTerminal&amp;logoColor=white&amp;link=https://twilkhoo.com/" alt="Tejas's Personal Portfolio Site"></a> 
 
 <div align="center">
+  
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=twilkhoo.twilkhoo&label=Visitors&labelColor=black&style=for-the-badge&logo=github&color=32cd32)
+
 </div>
 
 </p>
